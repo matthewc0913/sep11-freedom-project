@@ -10,7 +10,7 @@
 * I used a picture that I downloaded last year to get a picture and used multiple ways to change it.
 * For Example I used Blur, pixelate, black and white, grayscale, and many more.
 
-  ```
+```
 movie = image();
 movie.source = "loki.jpeg";
 blur(5);
@@ -20,17 +20,9 @@ grayscale();
 pixelate(1);
 color_invert();
 black_and_white(1);
+```
 
-  ```
-
-### X/X/XX:
-* Text
+### 10/21/2024:
+* 
 
 
-<!-- 
-* Links you used today (websites, videos, etc)
-* Things you tried, progress you made, etc
-* Challenges, a-ha moments, etc
-* Questions you still have
-* What you're going to try next
--->
