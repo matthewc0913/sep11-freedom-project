@@ -23,6 +23,6 @@ black_and_white(1);
 ```
 
 ### 10/21/2024:
-* 
+* Trying to download a video to see how well I could use it 
 
 
