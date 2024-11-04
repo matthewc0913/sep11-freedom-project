@@ -23,6 +23,26 @@ black_and_white(1);
 ```
 
 ### 10/21/2024:
-* Trying to download a video to see how well I could use it 
+* Trying to download a video to see how well I could use it
+
+### 11/4/2024
+* I added graphics, text, and emoji's to change to the image that I used . 
+* For Example I change the text color, font, size, postition, and the emoji's size, and postition.
+
+```
+movie = video();
+movie.source = "lavalamp.mp4";
+var emoji = text('😈')
+emoji.x = 510;
+emoji.y= 350;
+var my_graphic2 = graphic("rainbow.png");
+emoji.size= 100;
+var my_text = text("I'm an AMAZING coder!")
+my_text.x = 20;
+my_text.y= 200;
+my_text.color= "#00E1FF"
+my_text.size = 50
+my_text.font = "Comic Sans MS"
+```
 
 
