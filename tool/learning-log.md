@@ -46,3 +46,18 @@ my_text.font = "Comic Sans MS"
 ```
 
 
+### 11/18/2024
+* I was looking up how to have a video using Javascrpt
+* Now I an learning how to convert Vidcode to an IDE using the code below
+
+```
+let vid = document.getElementById("myVideo");
+
+function playVid() {
+    vid.play();
+}
+
+function pauseVid() {
+    vid.pause();
+}
+```
