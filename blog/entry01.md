@@ -5,7 +5,7 @@
 I had to find and tinker with a tool for my freedom project. 
 
 ### Vidcode
-I decided to use the tool Vidcode. Vidcode can use videos or images as background to your website and using vidcode you can also modify videos, images, and objects, add filters, text, and other graphics to the website.
+I decided to use the tool Vidcode. Vidcode can use videos or images as background to your website and using vidcode you can also modify videos, images, and objects, add filters, text, and other graphics to the website. To go to the vidcode website you can click [here](https://www.vidcode.com/)
 
 ### Tinkering
 I thinkered with Vidcode by using an image on my computer and adding multiple filters to the picture that I used. I changed other stuff that you can see in the code below.
