@@ -34,7 +34,7 @@ black_and_white(1);
 I liked tinkering with Vidcode. I liked seeing the videos and images change using the different fliters. 
 
 ## EDP
-I am currently in the second stage of the engineering design process, where the main goal is to research the problem. Why I think I am in this step in the **Engineering Design Process** is I have been researching the problem that I have. The next stage is to brainstorm possible solutions to resovle the issue. This is why I am on the second stage of the **Engineering Design Process.**
+I am currently in the second stage of the engineering design process, where the main goal is to research the problem. Why I think I am in this step in the **Engineering Design Process** is I have been researching the problem that I have. The problem that I have is that I need to make a website that can uses elements from Javascript and use it in working website. The next stage is to brainstorm possible solutions to resovle the issue. This is why I am on the second stage of the **Engineering Design Process.**
 
 ## Skills
 Some skills that I’ve learned since working on the last blog are **How to Google**, and **How to learn**.
