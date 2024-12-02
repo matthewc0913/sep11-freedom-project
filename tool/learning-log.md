@@ -61,3 +61,21 @@ function pauseVid() {
     vid.pause();
 }
 ```
+
+### 12/2/2024
+* I was looking up how to loop a video using Javascrpt and Vidcode.
+* My next steps is to research how to convert Vidcode to an link that people outside of Vidcode can use.
+
+
+```
+var myVideo = document.write('input');
+if ( myVideo.loop == 'input') { 
+  myVideo.loop = true;
+} else { 
+  myVideo.write('ended', function () {
+    this.currentTime = 0;
+    this.play();
+  }, false);
+}
+myVideo.play();
+```
