@@ -8,9 +8,17 @@ I had to find and tinker with a tool for my freedom project.
 I decided to use the tool Vidcode. Vidcode can use videos or images as background to your website and using vidcode you can also modify videos, images, and objects, add filters, text, and other graphics to the website. To go to the vidcode website you can click **[here](https://www.vidcode.com/).**
 
 ### Tinkering
-I thinkered with Vidcode by using an image on my computer and adding multiple filters to the picture that I used. I changed other stuff that you can see in the code below.
+I thinkered with Vidcode by using an image on my computer and adding multiple filters to the picture that I used. I changed the inage by adding the fliters that you can see in the code below. The types of fliters are 
 
-The code:
+* blur
+* noise
+* exposure
+* grayscale
+* pixelate
+* color_invert
+* black_and_white
+
+### The code:
 ```
 movie = image();
 movie.source = "loki.jpeg";
