@@ -7,7 +7,7 @@
 In the past month I have been learning my tool **Vidcode** 
 
 ### FP goal for Winter break
-My goal is to continue learning Videcode and work on a project that has a button and when you click the button a image show up with a black and white fliter on it. How i will do this is set curtain days to work on this project. And the rest will be having fun with my family
+My goal is to continue learning Videcode and work on a project that has a button and when you click the button a image show up with a black and white fliter on it. How i will do this is set curtain days to work on this project. And the rest will be having fun with my family.
 
 ## EDP
 I am still currently in the second stage of the engineering design process, where the main goal is to research the problem. Why I think I am in this step in the **Engineering Design Process** is I have been researching the problem that I have. The problem that I have is that I need to make a website that can uses elements from Javascript and use it in working website. I have been making progress on research the problem. The next stage is to brainstorm possible solutions to resovle the issue. This is why I am still on the second stage of the **Engineering Design Process.**
