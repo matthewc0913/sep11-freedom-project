@@ -4,7 +4,7 @@
 ## Content
 
 ### Learning my tool
-In the past month I have been learning my tool **Vidcode** 
+In the past month I have been learning my tool **Vidcode.** 
 
 ### FP goal for Winter break
 My goal is to continue learning Videcode and work on a project that has a button and when you click the button a image show up with a black and white fliter on it. How i will do this is set curtain days to work on this project. And the rest will be having fun with my family.
