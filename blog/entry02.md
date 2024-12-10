@@ -16,7 +16,7 @@ I am still currently in the second stage of the engineering design process, wher
 Some skills that I’ve learned since working on the last blog are **Time management**, and **Organization**.
 
 ### Time management
-While working on the website I also on vacation in Florida for Christmas. I had to manage time doing this, time with family, time relaxing. So I set curtain days to tinker with my tool. The rest of the days in Florida can be with family or relaxing the hot weather. With this scheduling I will learn more about my website and had fun in Flordia with my family. Now I have learned to balance time to do certain things.
+While working on the website I also on vacation in Florida for Christmas. I had to manage time doing this, time with family, time relaxing. So I set curtain days to tinker with my tool. The rest of the days in Florida can be with family or relaxing the hot weather. I use [Google Calender](https://calendar.google.com/calendar/u/0/r) to know what days I should be working on my FP. With this scheduling I will learn more about my website and had fun in Flordia with my family. Now I have learned to balance time to do certain things.
 
 ### Organization
 I have always been a unorganized person. But for school and mostly for this computer I have learned to have organized my tabs into folders to each class. For example my SEP folder has websites like:
