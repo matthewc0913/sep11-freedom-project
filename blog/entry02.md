@@ -3,6 +3,11 @@
 
 ## Content
 
+### Learning my tool
+
+
+### FP goal for Winter break
+
 
 ## EDP
 I am still currently in the second stage of the engineering design process, where the main goal is to research the problem. Why I think I am in this step in the **Engineering Design Process** is I have been researching the problem that I have. The problem that I have is that I need to make a website that can uses elements from Javascript and use it in working website. I have been making progress on research the problem. The next stage is to brainstorm possible solutions to resovle the issue. This is why I am still on the second stage of the **Engineering Design Process.**
