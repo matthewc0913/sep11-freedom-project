@@ -4,7 +4,37 @@
 ## Content
 
 ### Learning my tool
-In the past month I have been learning my tool **Vidcode.** How I did this is by thinkering on [Vidcode](https://www.vidcode.com/project/intro). I was working on how can I use 
+In the past month I have been learning my tool **Vidcode.** How I did this is by thinkering on [Vidcode](https://www.vidcode.com/project/intro). I was working on how can I use vidcode to change different features on photos. For example adding different filters changing the picture's text color, font, size, postition, and the emoji's size, and postition.
+
+#### Code:
+```
+movie = image();
+movie.source = "loki.jpeg";
+blur(5);
+noise(5);
+exposure(90);
+grayscale();
+pixelate(1);
+color_invert();
+black_and_white(1);
+```
+```
+movie = video();
+movie.source = "lavalamp.mp4";
+var emoji = text('😈')
+emoji.x = 510;
+emoji.y= 350;
+var my_graphic2 = graphic("rainbow.png");
+emoji.size= 100;
+var my_text = text("I'm an AMAZING coder!")
+my_text.x = 20;
+my_text.y= 200;
+my_text.color= "#00E1FF"
+my_text.size = 50
+my_text.font = "Comic Sans MS"
+```
+
+This code showed me how Vidcode can change the way a picture or video looks on a website. For Example I used Blur, pixelate, black and white, grayscale, change the text color, font, size, postition, and I also added an emoji and changed it's size, and postition. I liked seeing the videos and images change using the different fliters. 
 
 ### FP goal for Winter break
 My goal is to continue learning Videcode and work on a project that has a button and when you click the button a image show up with a black and white fliter on it. How i will do this is set curtain days to work on this project. And the rest will be having fun with my family.
@@ -24,7 +54,7 @@ I have always been a unorganized person. But for school and mostly for this comp
 * Github
 * Sep11 Notes
 * Hstat Sep students page
-* Ide
+* CS50 (IDE)
 
 Now I can feel like I can focus on one class at a time with this trick.
 
