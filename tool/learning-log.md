@@ -79,3 +79,17 @@ if ( myVideo.loop == 'input') {
 }
 myVideo.play();
 ```
+
+### 12/16/2024
+* What I did is I downloading the code from vidcode to connect it to an IDE/Github and naming that file videcode.js to try and have it work in a repo on my Ide.
+*  My next steps is to work on a mini project during my Christmas break.
+
+```
+var videcode = videcode.js;
+if ( videcode.loop == 'input') { 
+  myVideo.loop = true;
+} else { 
+  videcode.write('end', function () {
+}
+videcode.play();
+```
