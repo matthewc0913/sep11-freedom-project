@@ -97,7 +97,7 @@ videcode.play();
 ### 1/6/2025
 * What I did is I learned that you cannot export videos or code from vidcode to an IDE/Github. I have diciced to screen record the code that I have and add the code as commit to not interfere with other code.
 * My next steps is to screen record from my computer
+  
 
-```
+[Test Vid](SeanManeana.webm)
 
-```
