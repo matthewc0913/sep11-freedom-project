@@ -6,8 +6,29 @@
 ### Learning my tool
 
 #### Code:
+```
+var myVideo = document.write('input');
+if ( myVideo.loop == 'input') { 
+  myVideo.loop = true;
+} else { 
+  myVideo.write('ended', function () {
+    this.currentTime = 0;
+    this.play();
+  }, false);
+}
+myVideo.play();
+```
+```
+var videcode = videcode.js;
+if ( videcode.loop == 'input') { 
+  myVideo.loop = true;
+} else { 
+  videcode.write('end', function () {
+}
+videcode.play();
+```
 
-
+This code tell me how video play with Javascript code. Also it tells us how a video loops just like in TikTok.
 
 ## EDP
 I am still currently in the second stage of the engineering design process, where the main goal is to research the problem. Why I think I am in this step in the **Engineering Design Process** is I have been researching the problem that I have. The problem that I have is that I need to make a website that can uses elements from Javascript and use it in working website. I have been making progress on research the problem. The next stage is to brainstorm possible solutions to resovle the issue. This is why I am still on the second stage of the **Engineering Design Process.**
