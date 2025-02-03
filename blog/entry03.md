@@ -1,7 +1,9 @@
 # Entry 3
-##### X/X/XX
+##### 2/3/2025
 
-Text
+
+## Next steps
+I am looking forward to what comes next for my freedom project!
 
 [Previous](entry02.md) | [Next](entry04.md)
 
