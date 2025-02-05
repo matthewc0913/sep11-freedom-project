@@ -37,7 +37,7 @@ I am still currently in the second stage of the engineering design process, wher
 Some skills that I’ve learned since working on the last blog are **Creativity**, and **Organization**.
 
 ### Creativity
-I have never thought I can be creative or orignal. I have never had that type of characteristic in me. But working on my Freedom Project I had the idea to screen record the video I was gonna use for the website by recoding a video through the computer and have the music added on later. I tried recording a video through the computer and I put that recording on Github and now I have it on this repo and you can get it [here](../tool/SeanManeana.webm)
+I have never thought I can be creative or orignal. I have never had that type of characteristic in me. But working on my Freedom Project I had the idea to screen record the video I was gonna use for the website by recoding a video through the computer and have the music added on later. I tried recording a video through the computer and I put that recording on Github and now I have it on this repo and you can get it [here](../tool/SeanManeana.webm). This is how I have Creativity.
 
 ### Organization
 I have always been a unorganized person. But for school and mostly for this computer I have learned to have organized my tabs into folders to each class. This way I can focus on one class at a time. Shifting my focus on to one class can make me more absorbed in the lesson I am learning. For example my SEP folder has websites like:
