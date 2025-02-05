@@ -4,6 +4,7 @@
 ## Content
 
 ### Learning my tool
+In the past month I have been learning my tool Vidcode. How I did this is by thinkering on Vidcode. I have been trying to learn how the videos can work on a website using the code below. The thing is the videcode cannot be converted to an IDE so I will have to use other ways to have a video on an IDE, Github and a website. But with the code below the video can loop, end and play.
 
 #### Code:
 ```
