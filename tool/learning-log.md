@@ -103,3 +103,7 @@ videcode.play();
 ### 2/24/2025
 * What I did is I learned that you cannot export music to an IDE/Github. I have decided to screen record the music and the video at the same time so I can have both of them together playing at the same time.
 * My next steps is to have the music and video work together to make one video
+
+### 3/3/2025
+* I have downloaded the music i want to use and the video I want to use
+* My next steps is to have the music and video work together to make one video and somehow add that to the website.
