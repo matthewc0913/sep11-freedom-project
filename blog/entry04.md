@@ -1,33 +1,19 @@
 # Entry 4
 ##### 3/10/2025
 
+## Content
+
 ### Learning my tool
 In the past month I have been learning my tool Vidcode. How I did this is by thinkering on Vidcode. I have been trying to learn how the videos can work on a website using the code below. The thing is the videcode cannot be converted to an IDE so I will have to use other ways to have a video on an IDE, Github and a website. But with the code below the video can loop, end and play.
 
 #### Code:
 ```
-var myVideo = document.write('input');
-if ( myVideo.loop == 'input') { 
-  myVideo.loop = true;
-} else { 
-  myVideo.write('ended', function () {
-    this.currentTime = 0;
-    this.play();
-  }, false);
-}
-myVideo.play();
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+</video>
 ```
-```
-var videcode = videcode.js;
-if ( videcode.loop == 'input') { 
-  myVideo.loop = true;
-} else { 
-  videcode.write('end', function () {
-}
-videcode.play();
-```
-
-This code tell me how video play with Javascript code. Also it tells me how a video loops just like in TikTok.
+This shows how a video can show on a website. I just need to put in the video link in the source.
 
 ## EDP
 I am still currently in the second stage of the engineering design process, where the main goal is to research the problem. Why I think I am in this step in the **Engineering Design Process** is I have been researching the problem that I have. The problem that I have is that I need to make a website that can uses elements from Javascript and use it in working website. I have been making progress on research the problem. The next stage is to brainstorm possible solutions to resovle the issue. This is why I am still on the second stage of the **Engineering Design Process.**
