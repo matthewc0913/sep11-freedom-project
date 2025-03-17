@@ -107,3 +107,7 @@ videcode.play();
 ### 3/3/2025
 * I have downloaded the music i want to use and the video I want to use
 * My next steps is to have the music and video work together to make one video and somehow add that to the website.
+
+### 3/17/2025
+* I have created a vedio with the og vid and the music for the website
+* My next steps is to put that video on Github and have video playable on the website
