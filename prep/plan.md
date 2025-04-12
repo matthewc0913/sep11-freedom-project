@@ -9,13 +9,18 @@
 
 #### MVP
 
+- [ ] Javascript (deadline: 4/21/2025)
+  
+- [ ] Video and music (deadline: 4/21/2025)
+
 - [ ] Get 1 Mets Player Walk Up Song and have it play while a video is playing of the player (Prop Sean Maneana) (deadline: 4/21/2025)
-  - [ ] Use the video in a "edit" (like on TikTok) (deadline: 4/21/2025)
 
 #### Beyond MVP
 
   - [ ] Get more than 1 Mets Player Walk Up Song and have it play while a video is playing of the player  (deadline: 4/21/2025)
+        
   - [ ] Use the video in a "edit" (like on TikTok) (deadline: 4/21/2025)
+        
   - [ ] Have a good looking website were the videos start playing (deadline: 4/21/2025)
 
 

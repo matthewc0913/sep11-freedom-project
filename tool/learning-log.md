@@ -95,9 +95,23 @@ videcode.play();
 ```
 
 ### 1/6/2025
-* What I did is I learned that you cannot export videos or code from vidcode to an IDE/Github. I have diciced to screen record the code that I have and add the code as commit to not interfere with other code.
+* What I did is I learned that you cannot export videos or code from vidcode to an IDE/Github. I have decided to screen record the code that I have and add the code as commit to not interfere with other code.
 * My next steps is to screen record from my computer
-  
 
 [Test Vid](SeanManeana.webm)
 
+### 2/24/2025
+* What I did is I learned that you cannot export music to an IDE/Github. I have decided to screen record the music and the video at the same time so I can have both of them together playing at the same time.
+* My next steps is to have the music and video work together to make one video
+
+### 3/3/2025
+* I have downloaded the music i want to use and the video I want to use
+* My next steps is to have the music and video work together to make one video and somehow add that to the website.
+
+### 3/17/2025
+* I have created a video with the og vid and the music for the website
+* My next steps is to put that video on Github and have video playable on the website
+
+### 3/24/2025
+* I have the video on the website but it is not playing correctly sadly. 
+* My next steps is to have the video to work in the website.
