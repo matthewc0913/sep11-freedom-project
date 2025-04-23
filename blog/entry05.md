@@ -1,8 +1,20 @@
 # Entry 5
 ##### 4/22/2025
 
-## Content 
+## Content
 
+### Learning my tool
+In the past month I have been learning my tool Vidcode. How I did this is by thinkering on Vidcode. I have been trying to learn how the videos can work on a website using the code below. The thing is the videcode cannot be converted to an IDE so I will have to use other ways to have a video on an IDE, Github and a website. But with the code below the video can loop, end and play.
+
+#### Code:
+```
+<iframe width="800" height="495" src="SeanManeana.webm" title="Sean Manana" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+```
+This shows the video on the website. I just need to put make it look pretty.
+
+### MVP
+I finished my MVP by have the code above and downloading a video on my computer and putting he video that I had to the code to make my MVP. What I need to do next is fix the website to add more so it looks better than it does now.
 
 ## EDP
 I am currently in the fifth of the engineering design process, where the main goal is to create a prototype. Why I think I am in this step in the **Engineering Design Process** is I have been creating a prototype for the project. The problem that I have is that I need to make a website that can uses elements from Javascript and use it in working website. I have been making a websit using the. The next stage is to Test and evaluate the prototype to resovle the issue. This is why I am on the fifth stage of the **Engineering Design Process.**
