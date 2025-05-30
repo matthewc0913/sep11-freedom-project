@@ -6,6 +6,15 @@
 ## EDP
 
 ## Skills
+Some skills that I’ve learned since working on the last blog are **Time management**, and **Creativity**.
+
+### Time management
+While working on the website I need to manage my time well. I had to manage time doing this, time with family, time relaxing. So I set curtain days to work on my project. I use [Google Calender](https://calendar.google.com/calendar/u/0/r) to know what days I should be working on my FP. With this scheduling I will learn more about my website and had fun with my family. Now I have learned to balance time to do certain things.
+
+### Creativity
+I have never thought I can be creative or orignal. I have never had that type of characteristic in me. But working on my Freedom Project presintations I had the idea to have a bunch of jokes on my presintations. But none of that is original so I had to use creativity to be original. This is how I am original and creative.
+
+
 
 
 ## Next steps
