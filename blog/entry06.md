@@ -4,6 +4,8 @@
 ## Content
 
 ## EDP
+I am currently in the fifth of the engineering design process, where the main goal is to create a prototype. Why I think I am in this step in the **Engineering Design Process** is I have been creating a prototype for the project. The problem that I have is that I need to make a website that can uses elements from Javascript and use it in working website. I have been making a websit using the. The next stage is to Test and evaluate the prototype to resovle the issue and fix problems that I have. This is why I am on the fifth stage of the **Engineering Design Process.**
+
 
 ## Skills
 Some skills that I’ve learned since working on the last blog are **Time management**, and **Creativity**.
