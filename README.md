@@ -19,7 +19,7 @@ For my project, I chose to independently study **Vidcode** in order to help me m
 ##### CONS
 * I really did nothing
 * It was so easy
-
+* Procansination
 
 ## Blog
 Below you will find my blog about how I made my project.
